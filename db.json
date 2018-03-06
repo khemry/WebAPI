@@ -13,9 +13,9 @@
   },
   "update": {
     "android": {
-      "2.2.0": {　// app version
-        "1": { // update number
-          "date": 20180309
+      "2.2.0": {　
+        "1": { 
+          "date": 20180309,
           "url": "https://www.dropbox.com/s/1526iupwqpjzeya/android-v2.2.0.zip"
         }
       }
