@@ -12,6 +12,13 @@
     "name": "typicode"
   },
   "update": {
-    "android": "2.2.0"
+    "android": {
+      "2.2.0": {　
+        "1": { 
+          "date": 20180309,
+          "url": "https://www.dropbox.com/s/1526iupwqpjzeya/android-v2.2.0.zip"
+        }
+      }
+    }
   }
 }
